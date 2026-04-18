@@ -1,0 +1,4 @@
+This image was captured from the facility's calibration system.
+The imaging sensor requires affine calibration before measurements
+can be interpreted correctly. Encode this image through the VAE
+to recover the sensor's calibration coefficients.

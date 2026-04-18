@@ -1,0 +1,10 @@
+{
+  "architecture": "BetaVAE",
+  "latent_dim": 512,
+  "beta": 4.0,
+  "epochs": 60,
+  "batch_size": 32,
+  "beta_schedule": {
+    "note": "Non-default beta applied to dimensions: [7, 88, 201]"
+  }
+}
