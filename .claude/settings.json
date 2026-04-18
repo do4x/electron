@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(/c/Electron/venv_win/Scripts/python.exe -c ' *)",
+      "Bash(python -c \"import sys; print\\(sys.version\\)\")",
+      "Bash(pip list *)",
+      "Bash(pip install *)",
+      "Bash(python -c ' *)",
+      "Bash(python extract.py)",
+      "Bash(python search.py \"47.2 million metric tons\")",
+      "Bash(python search.py \"Registry of Master Haulers\")",
+      "Bash(python search.py \"Kallikratia Express\")",
+      "Bash(python search.py \"Class-B\")",
+      "Bash(python search.py \"agricultural\")",
+      "Bash(python search.py \"Compact Audit Commission\")",
+      "Bash(python search.py \"Helicon Outpost 14\")",
+      "Bash(python search.py \"Outpost 14\")",
+      "Bash(python search.py \"Helicon Outpost\")",
+      "Bash(python search.py \"docking\")",
+      "Bash(python search.py \"HF.+1,492|Helicon Freightworks.+revenue\")",
+      "Bash(python search.py \"conducting compliance audits\")",
+      "Bash(python search.py \"member-system regulatory\")",
+      "Bash(python search.py \"compliance audit\")",
+      "Bash(python search.py \"Class-B.{0,100}crew\")"
+    ]
+  }
+}

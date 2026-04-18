@@ -1,0 +1,8 @@
+{
+  "question_id": "q2",
+  "answer": "It mandates that every fuel manifest filed with the Compact Commerce Directorate carry a cryptographically signed authorization generated on-vessel at the time of departure (the 'Gold' format); paper and unsigned digital submissions are no longer accepted.",
+  "evidence_quote": "The 2183 Amendment to Article 7.3 of the Commerce Accords mandates that all fuel manifests filed with the Compact Commerce Directorate must carry a cryptographically signed authorization generated on-vessel at time of departure.",
+  "page": 1018,
+  "abstain": false,
+  "confidence": "moderate"
+}

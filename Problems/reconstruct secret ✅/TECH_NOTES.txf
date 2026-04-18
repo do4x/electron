@@ -1,0 +1,4 @@
+Architecture validation checksum: 0xDEADC0DE
+Training precision: float32
+Optimizer: Adam
+Epochs: 80

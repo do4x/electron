@@ -1,0 +1,8 @@
+{
+  "question_id": "q4",
+  "answer": "The silver (paper-plus-unsigned-digital) format was deprecated after FY2182 forgery incidents in which paper manifests were altered after departure and the tampering was only detected post-voyage; the ISB identified the post-hoc verification lag as the common enabler. It was replaced by the 'Gold' manifest format defined in the 2183 Amendment to Article 7.3, which binds the manifest cryptographically to the vessel at the moment of departure.",
+  "evidence_quote": "In response to the FY2182 incidents, the Compact Commerce Directorate formally deprecated the silver manifest format at the start of FY2183 and replaced it with the ‘Gold’ manifest format defined in the 2183 Amendment to Article 7.3, which requires cryptographic signing at time of departure.",
+  "page": 1025,
+  "abstain": false,
+  "confidence": "high"
+}
